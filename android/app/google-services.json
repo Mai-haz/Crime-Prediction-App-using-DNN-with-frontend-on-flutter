@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873563867259",
+    "project_id": "fyp-guardian-4aa1b",
+    "storage_bucket": "fyp-guardian-4aa1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873563867259:android:4c3107b742e880a026bade",
+        "android_client_info": {
+          "package_name": "com.fyp.semester_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAJJ5u6BGt3SB2feuRhO92MUeHpHkzSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

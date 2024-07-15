@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fyp.semester_8.app-mergeDebugResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayha\\.gradle\\caches\\transforms-3\\5e1ab9db4bfbf3ac403646091b989b87\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
