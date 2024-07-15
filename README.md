@@ -1,6 +1,4 @@
 
-
-```markdown
 # Crime Prediction App
 
 ## Overview
